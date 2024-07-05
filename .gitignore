@@ -71,14 +71,11 @@ testvenv
 # Jupyter Notebook config
 jupyter_notebook_config.py
 
-# Jupyter Notebook files
-*.ipynb
 
 # Logs
 *.log
 
 # Data files
-*.csv
 *.json
 *.xlsx
 
